@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Nasze cele
+image: /img/dsc_0144.jpg
+heading: Wspieranie sportu wśród osób z niepełnosprawnościami
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
