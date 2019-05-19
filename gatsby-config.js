@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Tenis Stołowy Dźwiękowy',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby popularyzować ten sport, wspierać organizację zawód oraz pomagać osobom z niepełnosprawnościami. Gra została stworzona z myślą o osobach niewidomych. Jej twórcą jest wieloletni pedagog, nauczyciel wychowania fizycznego i rehabilitant Specjalnego Ośrodka Szkolno-Wychowawczego dla Dzieci Niewidomych w Owińskach, Leszek Szmaj.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
