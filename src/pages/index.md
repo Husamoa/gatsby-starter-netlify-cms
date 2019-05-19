@@ -31,13 +31,13 @@ intro:
         lekkoatletyczne ustawione w odległości 15 cm przed krótszymi bokami
         stołu (górna krawędź płotka powinna być równa wysokości powierzchni
         stołu), dwie pary gogli z zaciemnionymi okularami.
-
-
+    - image: /img/logo-tsd.jpg
+      text: >-
         Aktualnie trwają prace nad projektem nowego stołu do gry, z
         wykorzystaniem urządzeń elektronicznych, co przyczyni się do
         uatrakcyjnienia gry i ułatwienia sędziowania.
-    - image: /img/logo-tsd.jpg
-      text: >-
+
+
         W tenisie stołowym dźwiękowym rozgrywa się zawody indywidualne, deblowe
         i drużynowe.
     - image: /img/logo-tsd.jpg
