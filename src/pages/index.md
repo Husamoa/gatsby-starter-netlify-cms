@@ -1,56 +1,104 @@
 ---
 templateKey: index-page
 title: Tenis Stołowy Dźwiękowy
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Z myślą o niewidomych
+image: /img/home-img.jpg
+heading: Tenis Stołowy Dźwiękowy
+subheading: z myślą o osobach niewidomych
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Fundacja
+  description: >-
+    Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby
+    popularyzować ten sport, wspierać organizację zawód oraz pomagać osobom z
+    niepełnosprawnościami.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Gra stworzona z myślą o osobach niewidomych. Jej twórcą jest wieloletni
+  pedagog, nauczyciel wychowania fizycznego i rehabilitant Specjalnego Ośrodka
+  Szkolno-Wychowawczego dla Dzieci Niewidomych w Owińskach, Leszek Szmaj.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/logo-tsd.jpg
+      text: >-
+        Zawody w tenisa stołowego dźwiękowego należy przeprowadzać w
+        pomieszczeniach zamkniętych najlepiej w salach gimnastycznych, halach
+        sportowych oddalonych od zewnętrznych źródeł hałasu typu: ruch uliczny,
+        lotniska, autostrady, głośne obiekty przemysłowe.
+
+
+        Do gry potrzebny jest stół do tenisa stołowego (bez siatki) z
+        zaznaczonymi punktami orientacyjnymi wyznaczającymi środki krótszych
+        boków stołu (na krawędzi stołu znak wypukły o: szerokości 5 mm, długości
+        10 mm, wysokości 0,3 mm) piłeczka do tenisa stołowego, dwa płotki
+        lekkoatletyczne ustawione w odległości 15 cm przed krótszymi bokami
+        stołu (górna krawędź płotka powinna być równa wysokości powierzchni
+        stołu), dwie pary gogli z zaciemnionymi okularami.
+
+
+        Aktualnie trwają prace nad projektem nowego stołu do gry, z
+        wykorzystaniem urządzeń elektronicznych, co przyczyni się do
+        uatrakcyjnienia gry i ułatwienia sędziowania.
+    - image: /img/logo-tsd.jpg
+      text: >-
+        W tenisie stołowym dźwiękowym rozgrywa się zawody indywidualne, deblowe
+        i drużynowe.
+    - image: /img/logo-tsd.jpg
+      text: >-
+        Zawody indywidualne
+
+        W zawodach indywidualnych gra się do 5 lub do 15 punktów.
+
+
+        Gra ta polega na podawaniu piłeczki za pomocą rąk, w taki sposób, aby ta
+        odbiła się minimum dwukrotnie na polu podającego i nie została złapana
+        przez przeciwnika.
+
+
+        Zawodnik rzuca piłeczkę w taki sposób, aby odbiła się ona najpierw na
+        polu podającego (minimum dwukrotnie), a następnie odbijała się na polu
+        przeciwnika. Prawidłowa obrona to taka, gdy zawodnik łapiący piłkę nie
+        dotknie łokciami powierzchni stołu i nie pomoże sobie w czasie łapania
+        tułowiem, klatką piersiową, głową, nogami.
+
+
+        Zawody deblowe, mikst
+
+        W zawodach deblowych i w mikście uczestniczą dwa zespoły, po dwóch
+        zawodników w każdym. Gra się do 5 lub do 15 punktów. W mikście
+        rywalizują dwuosobowe zespoły, złożone z kobiety i mężczyzny.
+
+
+        Zawody drużynowe
+
+        3-osobowe drużyny grają systemem sztafetowym, tzn.: kolejna para
+        grających przejmuje wyniki pary poprzedniej. Kolejne pojedynki następują
+        co 5 punktów, do uzyskania przez jeden z zespołów 45 punktów.
+    - image: /img/logo-tsd.jpg
+      text: >-
+        Zasady punktacji
+
+        Punkt zostaje przyznany, gdy:
+
+
+        - zawodnik nie wykona prawidłowego podania lub obrony
+
+        - piłeczka po podaniu przez przeciwnika nie dotknie pola zawodnika
+        odbierającego
+
+        - przeciwnik poruszy powierzchnię gry
+
+        - wolna ręka w czasie podania dotknie powierzchni gry
+
+        - zawodnik podający w czasie podania zakłóci ciszę
+
+        - zawodnik nie wykona prawidłowego podania po komendzie sędziego w ciągu
+        10 sekund
+
+        - zawodnik poda piłkę toczoną (piłka przestaje odbijać się na polu
+        odbierającego)
+  heading: Fundacja na rzecz Tenisa Stołowego Dźwiękowego
+  description: >-
+    Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby
+    popularyzować ten sport, wspierać organizację zawód oraz pomagać osobom z
+    niepełnosprawnościami.
 main:
   heading: Great coffee with no compromises
   description: >
