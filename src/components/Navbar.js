@@ -64,7 +64,7 @@ const Navbar = class extends React.Component {
                 O nas
               </Link>
               <Link className="navbar-item" to="/products">
-                Zacznij grać
+                Cele fundacji
               </Link>
               <Link className="navbar-item" to="/blog">
                 Aktualności
