@@ -59,6 +59,11 @@ pricing:
     który Ci zaraz forwardnę, napisali, że mejle znowu padły, więc mamy kola z
     biznesem o 15:00. Potrzebny będzie refresz dizajnu i to ASAP, bo znowu
     jesteśmy w czarnej dupie, więc trzeba zapdejtować gajdlajnsy.
-  plans: []
+  plans:
+    - description: plan 2
+      items:
+        - sdasdas
+      plan: Plan 1
+      price: plan 1
 ---
 
