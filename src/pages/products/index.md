@@ -19,7 +19,9 @@ description: >-
   minuty. Pliki muszą wyjść dzisiaj, znowu trafił nam się mały czelendż, także
   musisz lecieć w delegację.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/favicon.jpg
+      text: Tenis Stołowy Dźwiękowy
   heading: Wspieranie sportu wśród osób z niepełnosprawnościami
   description: Wspieranie sportu wśród osób z niepełnosprawnościami
 main:
@@ -35,13 +37,13 @@ main:
     ogarnąć bez szybkiego fokusa.
   image1:
     alt: Tenis Stołowy Dźwiękowy
-    image: /img/dsc_0073.jpg
+    image: /img/dsc_0036.jpg
   image2:
     alt: Tenis Stołowy Dźwiękowy
     image: /img/dsc_0615.jpg
   image3:
     alt: Tenis Stołowy Dźwiękowy
-    image: /img/dsc_0036.jpg
+    image: /img/dsc_0073.jpg
 testimonials:
   - author: Paulo Coelho
     quote: 'Życie jest jak wódka. Gorzkie, ale żyć trzeba.'
