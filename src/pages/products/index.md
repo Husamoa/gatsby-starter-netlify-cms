@@ -35,13 +35,13 @@ main:
     ogarnąć bez szybkiego fokusa.
   image1:
     alt: Tenis Stołowy Dźwiękowy
-    image: /img/dsc_0906.jpg
+    image: /img/dsc_0073.jpg
   image2:
     alt: Tenis Stołowy Dźwiękowy
-    image: /img/img_2523.jpg
+    image: /img/dsc_0615.jpg
   image3:
     alt: Tenis Stołowy Dźwiękowy
-    image: /img/img_2681.jpg
+    image: /img/dsc_0036.jpg
 testimonials:
   - author: Paulo Coelho
     quote: 'Życie jest jak wódka. Gorzkie, ale żyć trzeba.'
