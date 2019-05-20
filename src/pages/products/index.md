@@ -4,98 +4,59 @@ title: Nasze cele
 image: /img/dsc_0144.jpg
 heading: Wspieranie sportu wśród osób z niepełnosprawnościami
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Nie mamy akceptu, to będzie masakrycznie trudny czelendż, dlatego leć po mleko
+  do kawy. Dżołkujesz chyba? ASAP. Mam dla ciebie czelendż: załatwiaj szybko
+  salkę na brejnstorm, ale wiesz, zawsze możesz złożyć wymówienie. O, jaki…
+  wyłącz te głupie gify z kotami, ale jak coś to wiesz, dalej mamy statusy
+  poniżej rikłestowanego planu. Wizytacja prezesa została przesunięta na nekst
+  łik.  Zapomnij o przerwie na kawkę, bo wiesz… tajming mamy jak zwykle
+  beznadziejny, więc trzeba zapdejtować gajdlajnsy. Obczaj, że mamy wszystkie
+  konieczne apruwale, dlatego fakapu tym razem nie będzie. Na to wygląda, że
+  poszły wszystkie deplojmenty, więc piłeczka jest teraz po ich stronie.
+  Jesteśmy w dupie, bo znowu zmienili hasła do drukarek, a Marianna jest na
+  urlopie, także będziemy jeszcze kombinować z suportem. Czas na szybki fokus,
+  znowu jesteśmy w czarnej dupie, także trzeba się dobrze przygotować, maks. 3
+  minuty. Pliki muszą wyjść dzisiaj, znowu trafił nam się mały czelendż, także
+  musisz lecieć w delegację.
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: Wspieranie sportu wśród osób z niepełnosprawnościami
+  description: Wspieranie sportu wśród osób z niepełnosprawnościami
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Wspieranie sportu wśród osób z niepełnosprawnościami
+  description: >-
+    Jutro mam hołmofisa. Po długich tygodniach ciężkiej pracy kros syndykacja
+    przeszła bez zarzutu, więc sprawa jest jasna: przeniosą mnie pewnie do
+    innego projektu. WTF? Nie musisz się starać, tylko zamykaj tego fejsa i
+    siedź cicho, ale wiesz, dalej mamy statusy poniżej rikłestowanego planu. Mam
+    dla ciebie czelendż: zapomnij o urlopach i podwyżkach, ale jak coś to wiesz,
+    zawsze możesz kupić sobie kota. Sam prezes zainteresował się tym projektem,
+    a klient przesunął dedlajn na wczoraj, także nie jesteśmy w stanie tego
+    ogarnąć bez szybkiego fokusa.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Tenis Stołowy Dźwiękowy
+    image: /img/dsc_0906.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Tenis Stołowy Dźwiękowy
+    image: /img/img_2523.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Tenis Stołowy Dźwiękowy
+    image: /img/img_2681.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Paulo Coelho
+    quote: 'Życie jest jak wódka. Gorzkie, ale żyć trzeba.'
+  - author: Piotr Żyła
+    quote: He he he...
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Jakiś tekst
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    Zabieram was na kołczing, bo klient odrzucił wszystkie ajdije, także musi
+    być haj-endowo. Ostatecznie i tak cofniemy ci multisporta. Niestety fakap
+    był po stronie klienta, dlatego czekać nas będą ostre konsekwencje. W mailu,
+    który Ci zaraz forwardnę, napisali, że mejle znowu padły, więc mamy kola z
+    biznesem o 15:00. Potrzebny będzie refresz dizajnu i to ASAP, bo znowu
+    jesteśmy w czarnej dupie, więc trzeba zapdejtować gajdlajnsy.
+  plans: []
 ---
 
