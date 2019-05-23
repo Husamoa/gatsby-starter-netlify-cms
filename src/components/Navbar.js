@@ -34,7 +34,8 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        id="custom-nav"
+        className="navbar"
         role="navigation"
         aria-label="main-navigation"
       >
@@ -63,14 +64,14 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 O nas
               </Link>
-              <Link className="navbar-item" to="/products">
-                Cele fundacji
-              </Link>
               <Link className="navbar-item" to="/blog">
                 Aktualności
               </Link>
               <Link className="navbar-item" to="/contact">
                 Kontakt
+              </Link>
+              <Link className="navbar-item" to="/products">
+                Produkty
               </Link>
               <Link className="navbar-item" to="/contact/examples">
                 Dla mediów
