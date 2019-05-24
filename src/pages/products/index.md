@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
-title: Nasze cele
+title: Nasze produkty
 image: /img/dsc_0144.jpg
-heading: Wspieranie sportu wśród osób z niepełnosprawnościami
+heading: Kompletny zestaw do gry w tenisa stołowego dźwiękowego
 description: >-
   Nie mamy akceptu, to będzie masakrycznie trudny czelendż, dlatego leć po mleko
   do kawy. Dżołkujesz chyba? ASAP. Mam dla ciebie czelendż: załatwiaj szybko
