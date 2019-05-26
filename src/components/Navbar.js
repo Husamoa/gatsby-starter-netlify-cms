@@ -47,7 +47,7 @@ const Navbar = class extends React.Component {
       if (prevScrollpos > currentScrollPos) {
         document.getElementById("custom-nav").style.top = "0";
       } else {
-        document.getElementById("custom-nav").style.top = "50px";
+        document.getElementById("custom-nav").style.top = "-50px";
       }
       prevScrollpos = currentScrollPos;
     }
