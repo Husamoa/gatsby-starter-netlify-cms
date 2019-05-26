@@ -11,6 +11,15 @@ const Navbar = class extends React.Component {
     }
   }
 
+  componentDidMount() {
+    window.addEventListener('scroll', this.hideNavOnScroll());
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.hideNavOnScroll());
+  }
+  
+
   toggleHamburger = () => {
     // toggle the active boolean in the state
     this.setState(
@@ -29,6 +38,19 @@ const Navbar = class extends React.Component {
             })
       }
     )
+  }
+
+  hideNavOnScroll = () => {
+    let prevScrollpos = window.pageYOffset;
+      window.onscroll = function() {
+    let currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("custom-nav").style.top = "0";
+      } else {
+        document.getElementById("custom-nav").style.top = "-4.5rem";
+      }
+      prevScrollpos = currentScrollPos;
+    }
   }
 
   render() {
