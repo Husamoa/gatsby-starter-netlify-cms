@@ -36,8 +36,8 @@ pricing:
   plans:
     - description: Kompletny zestaw do wspomagania sędziowania Tenisa Stołowego Dźwiękowego
       items:
-        - stacja główna
+        - wszystkie części
       plan: Zestaw do sędziowania
-      price: 10 000
+      price: cena ustalana indywidualnie
 ---
 
