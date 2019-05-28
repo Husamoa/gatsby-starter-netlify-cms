@@ -6,40 +6,25 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <section className="section">
+        <section className="section section-large-padding">
           <div className="container">
             <div className="content">
               <h1>W budowie...</h1>
               <p>
-                Prosimy o kontakt telefoniczny, bądź przez formularz kontaktowy. 
+                Prosimy o kontakt telefoniczny, bądź przez formularz kontaktowy.
               </p>
               <ul>
                 <li>
-                  <Link to="/contact">Basic contact form</Link>
+                  <Link to="/contact">Formularz kontaktowy</Link>
                 </li>
                 <li>
-                  <Link to="/contact/file-upload/">Form with file upload</Link>
+                  mail: <a href="mailto:tenisstolowydzwiekowy@gmail.com">tenisstolowydzwiekowy@gmail.com</a>
+                </li>
+                <li>
+                  tel: <a href="tel:+48668336781">668 336 781</a>
+
                 </li>
               </ul>
-
-              <h2>Troubleshooting</h2>
-              <h3>Forms stop working after upgrading to Gatsby v2</h3>
-              <p>
-                This can be caused by the offline-plugin.{' '}
-                <a href="https://github.com/gatsbyjs/gatsby/issues/7997#issuecomment-419749232">
-                  Workaround
-                </a>{' '}
-                is to use <code>?no-cache=1</code> in the POST url to prevent
-                the service worker from handling form submissions
-              </p>
-              <h3>Adding reCAPTCHA</h3>
-              <p>
-                If you are planning to add reCAPTCHA please go to{' '}
-                <a href="https://github.com/imorente/gatsby-netlify-form-example">
-                  imorente/gatsby-netlify-form-example
-                </a>{' '}
-                for a working example.
-              </p>
             </div>
           </div>
         </section>

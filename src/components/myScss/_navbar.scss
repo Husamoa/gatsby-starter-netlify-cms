@@ -1,7 +1,14 @@
 #custom-nav {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    display: block;
-    transition: top 0.3s;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  display: block;
+  transition: top 0.3s;
+}
+@media screen and (min-width: 1088px) {
+  #custom-nav {
+    display: flex;
+    justify-content: center;
+    min-height: 4.25rem;
+  }
 }

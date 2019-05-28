@@ -36,7 +36,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <section className="section">
+        <section className="section section-large-padding">
           <div className="container">
             <div className="content">
               <h1>Formularz kontaktowy</h1>

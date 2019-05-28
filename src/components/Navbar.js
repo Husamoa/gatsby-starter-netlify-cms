@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import facebook from '../img/social/facebook.svg'
+import facebook from '../img/social/facebook1.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -18,7 +18,7 @@ const Navbar = class extends React.Component {
   componentWillUnmount() {
     window.removeEventListener('scroll', this.hideNavOnScroll());
   }
-  
+
 
   toggleHamburger = () => {
     // toggle the active boolean in the state
@@ -57,14 +57,14 @@ const Navbar = class extends React.Component {
     return (
       <nav
         id="custom-nav"
-        className="navbar"
+        className="navbar is-dark"
         role="navigation"
         aria-label="main-navigation"
       >
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <p className="has-text-weight-bold">Tenis Stołowy Dźwiękowy</p>
+              <p className="has-text-weight-bold has-text-white-ter">Tenis Stołowy Dźwiękowy</p>
               {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
             </Link>
             {/* Hamburger menu */}
@@ -107,7 +107,7 @@ const Navbar = class extends React.Component {
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={facebook} alt="Github" />
+                  <img src={facebook} alt="Facebook" />
                 </span>
               </a>
             </div>
