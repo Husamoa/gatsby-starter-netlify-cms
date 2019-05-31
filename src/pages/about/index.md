@@ -6,21 +6,17 @@ title: Od początku
 
  Tenis stołowy dźwiękowy to coraz popularniejsza dyscyplina, która ma swoich zwolenników w Polsce oraz za granicą. Jak powstała? Kto i dlaczego ją wymyślił? Oto historia o wielkiej pasji i determinacji.
 
+****
 
-
-## **Niby zwykła lekcja**
-
-<hr />
-
-Prowadzenie ciekawych i angażujących zajęć z wychowania fizycznego to wielkie wyzwanie dla każdego nauczyciela. Jeszcze trudniej jest, jeśli są to zajęcia dla dzieci niewidomych i słabowidzących. Spektrum ćwiczeń jest mocno ograniczone, trzeba się bardzo wysilić, żeby zainteresować uczniów i dostosować poziom do ich możliwości. Dlatego ciągle należy być czujnym i szukać nowych pomysłów. A te czasami pojawiają się nagle i niespodziewanie.
-
-Tak było osiem lat temu na zajęciach prowadzonych przez pana Leszka Szmaja w ośrodku szkolno-wychowawczym dla dzieci niewidomych w Owińskach. Jego uczniowie czekali, aż ich widzący koledzy skończą lekcję, na której grali w tenisa stołowego. Wsłuchiwali się przy tym w specyficzne dźwięki, które wydawały piłeczka, rakietki, stół, zawodnicy. I nagle jeden z uczniów zapytał o nazwę tej gry i jej zasady. Pan Leszek wytłumaczył, więc padło kolejne pytanie: „Czy możemy w to dzisiaj zagrać?”. Tak zaczęła się historia tenisa stołowego dźwiękowego.
+![początki tenisa stołowego dźwiękowego](/img/home-img.jpg "początki tenisa stołowego dźwiękowego")
 
 ## **Tak zaczynaliśmy**
 
 <hr />
 
 Pierwszym krokiem było pozbycie się rakietek. Zamiast nich uczniowie korzystali ze swoich dłoni. Siatka nad stołem też okazała się zbędna. Został więc stół i piłeczka. Pan Leszek musiał improwizować i szybko wymyślić jakiś system gry, który uczniowie zrozumieją, zaakceptują i zapamiętają. Przez całą lekcję wszyscy świetnie się bawili. Nic nie motywuje do pracy tak bardzo jak uśmiech uczniów, więc nauczyciel każdą wolną chwilę poświęcał na opracowywanie i testowanie zasad i wariantów gry. Po paru tygodniach miał już wszystko gotowe. I chyba największym sukcesem była reakcja uczniów i kolegów. Dzieci były zachwycone, że w końcu pojawiło się coś specjalnie dla nich, z myślą o nich. Że uczestniczą w czymś wielkim i ważnym. Dlatego chciały grać i grać. Na lekcjach trzeba było jednak realizować program, więc pojawił się pomysł zajęć dodatkowych. Dyrekcja ośrodka wyraziła zgodę i rozpoczęły się pierwsze spotkania.
+
+![puchar polski w łodzi](/img/06.06.2013-r.-łódź.jpg "puchar polski w łodzi")
 
 Treningi i ćwiczenia cieszyły się wielkim zainteresowaniem. Uczniowie bardzo aktywnie uczestniczyli we wszystkich zajęciach. Szybko okazało się, że mają ogromną potrzebę rywalizacji sportowej i konfrontacji. Żeby zdobyć nowych rywali dla swoich podopiecznych, pan Leszek zaprosił nauczycieli z innych ośrodków w Polsce na prezentację gry i szkolenie. Już po pierwszym takim spotkaniu tenis stołowy dźwiękowy zyskał nowych fanów. Pan Sławomir Szik z Łodzi podsumował wszystko w liście wysłanym do dyrekcji, którego fragment zacytuję.
 
@@ -31,7 +27,8 @@ Może trochę w skrócie o samej konferencji. Pełen profesjonalizm, zaangażowa
 Na efekty nie trzeba było długo czekać. Natychmiast po powrocie z Owińsk zacząłem wprowadzać nową dyscyplinę w życie. Najpierw wprowadziłem w tajniki moje koleżanki po fachu, no i …. zaczęło się! Koleżanki opanowały już sztukę sędziowania. Wkrótce ogromne zainteresowanie i ustawiczna chęć grania przeniosły się z grających nauczycieli na dzieci i młodzież. Czasami zastanawiamy się... – i po co nam to było. Na zajęciach pozalekcyjnych – SKS – tenis stołowy dźwiękowy wyparł goalballa! Ileż radości i satysfakcji czerpią z gry nasze dzieciaki! A jaka duma rozpiera tych słabszych, ćwiczących z ograniczeniami (tych, których możliwości wykonywania ćwiczeń ruchowych są niewielkie) wówczas, gdy wygrywają z przeciwnikiem starszym wiekowo, sprawniejszym, silniejszym...”.
 
 Niedługo potem odbyły się w Łodzi pierwsze ogólnopolskie zawody. Po ich zakończeniu oczywiste było, że muszą zostać zorganizowane kolejne. Ośrodek w Owińskach każdego roku zaprasza na mistrzostwa Polski, odbyło się już sześć ich edycji. W międzyczasie zawodnicy startują w zawodach w swoich szkołach i ćwiczą podczas lekcji i zajęć dodatkowych. To doskonała zabawa oraz możliwość integracji i rywalizacji sportowej. Dzięki zaangażowaniu nauczycieli dzieci doświadczają zupełnie nowych dla nich emocji. Przy stole wszyscy są równi, każdy ma takie same szanse.
- 
+
+![pokaz tenisa stołowego dźwiękowego w AWF Poznań](/img/18.11.2014-r.-awf.jpg "pokaz tenisa stołowego dźwiękowego w AWF Poznań")
 
 ## **Gra się wszędzie**
 
@@ -40,14 +37,6 @@ Niedługo potem odbyły się w Łodzi pierwsze ogólnopolskie zawody. Po ich zak
 Zasady gry zostały dopracowane, spisane i wydane. Odbywały się kolejne szkolenia dla sędziów, prezentacje gry podczas różnych ważnych wydarzeń w całej Polsce. Goście z zagranicy też zawsze mogli liczyć na pokaz i szczegółowe omówienie zasad. Dzisiaj tenis stołowy dźwiękowy znany jest już w Czechach, Hiszpanii, Rosji, Serbii, na Litwie, Ukrainie, Węgrzech, Słowacji, a nawet w Katarze. Przy każdej okazji mówiono o nowej dyscyplinie.
 
 Dzięki takim działaniom grę zobaczył i poznał dr Mirosław Górny z katedry Adaptowanej Aktywności Ruchowej poznańskiej Akademii Wychowania Fizycznego. Od razu docenił jej zalety i dostrzegł wielki potencjał. Zorganizował wyjazdy do kilku miast w Czechach, by jak najwięcej ośrodków mogło poznać grę. Dr Górny z zapałem wspierał pana Leszka i utwierdzał w przekonaniu, że tenis stołowy dźwiękowy to wyjątkowa gra. Rozwijająca i dostępna, warta studiowania i poznawania. Od czterech lat studenci AWF w Poznaniu mogą uczyć się metodyki gry w ramach swoich zajęć. Powstał osobny przedmiot obejmujący teorię i praktykę.
-
-
-
-## **Pomoc techniczna**
-
- <hr />
-
-Udoskonalanie sprzętu, który ułatwi sędziowanie, trwa cały czas. Najtrudniejsze było wymyślenie i opracowanie urządzenia, które jednoznacznie i bezbłędnie udzielałoby informacji o liczbie odbić piłeczki w polu. Zawodnicy doszli bowiem do takiej wprawy i wypracowali sobie takie techniki rzutów, że oko sędziego często nie wystarcza. Wynalezienie niezawodnego urządzenia to było wielkie wyzwanie. Polegli na nim nawet studenci z politechniki, którzy przez rok próbowali swoich sił. Mimo pierwszych nieudanych prób pan Leszek się nie poddawał. O pomoc poprosił znajomego, który cierpliwie szukał nowych rozwiązań. Pan Krzysztof Koźlecki znalazł w końcu to, czego brakowało. Zaprojektował i wykonał urządzenie, dzięki któremu sędziowanie stało się prostsze. Laserowa wiązka światła oraz detektory dźwięku zainstalowane pod stołem wysyłają informacje do urządzenia optyczno-elektronicznego, które je analizuje i przetwarza. W rezultacie sędzia oraz zawodnicy i kibice otrzymują komunikat dotyczący popełnionego przez zawodnika błędu (przekroczenie, przecięcie linii środkowej, czas minął).
 
 ## **To nie koniec**
 
