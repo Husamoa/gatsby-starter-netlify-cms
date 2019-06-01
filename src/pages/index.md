@@ -8,7 +8,7 @@ mainpitch:
   title: Fundacja
   description: >-
     Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby
-    popularyzować ten sport, wspierać organizację zawód oraz pomagać osobom z
+    popularyzować ten sport, wspierać organizację zawodów oraz pomagać osobom z
     niepełnosprawnościami.
 description: >-
   Gra stworzona z myślą o osobach niewidomych. Jej twórcą jest wieloletni
