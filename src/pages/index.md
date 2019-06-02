@@ -17,7 +17,9 @@ description: >-
 intro:
   blurbs:
     - image: /img/tsd-start-2.jpg
-      text: Zapraszamy do obejrzenia filmu promującego Tenis Stołowy Dźwiękowy.
+      text: >-
+        Zapraszamy do obejrzenia filmu promującego Tenis Stołowy Dźwiękowy.
+        Kliknij na przycisk poniżej.
   heading: Fundacja na rzecz Tenisa Stołowego Dźwiękowego
   description: >-
     Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby
