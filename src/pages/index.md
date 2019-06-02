@@ -16,6 +16,8 @@ description: >-
   Szkolno-Wychowawczego dla Dzieci Niewidomych w Owińskach, Leszek Szmaj.
 intro:
   blurbs:
+    - image: /img/12.03.2016-r.-wywiad-dla-tvnu.jpg
+      text: Wywiad dla telewizji TVN 24
     - image: /img/tsd-start-2.jpg
       text: >-
         Zapraszamy do obejrzenia filmu promującego Tenis Stołowy Dźwiękowy.
