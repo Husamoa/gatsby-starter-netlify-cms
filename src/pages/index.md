@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tenis Stołowy Dźwiękowy
-image: /img/home-img.jpg
+image: /img/tsd-start-page.jpg
 heading: Tenis Stołowy Dźwiękowy
 subheading: z myślą o osobach niewidomych
 mainpitch:
