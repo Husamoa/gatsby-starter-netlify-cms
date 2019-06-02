@@ -58,7 +58,7 @@ const Navbar = class extends React.Component {
     return (
       <nav
         id="custom-nav"
-        className="navbar is-dark"
+        className="navbar"
         role="navigation"
         aria-label="main-navigation"
       >
@@ -83,7 +83,7 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
+            <div className="navbar-start has-text-centered has-text-white-ter">
               <Link className="navbar-item" to="/about">
                 O nas
               </Link>
@@ -104,7 +104,7 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
               <a
-                className="navbar-item"
+                className="facebook-icon"
                 href="https://www.facebook.com/dzwiekowy/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -114,8 +114,8 @@ const Navbar = class extends React.Component {
                 </span>
               </a>
             </div>
+            </div>
           </div>
-        </div>
       </nav>
     )
   }
