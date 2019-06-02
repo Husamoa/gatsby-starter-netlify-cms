@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: Tenis Stołowy Dźwiękowy
-image: /img/home-img.jpg
+image: /img/tsd-start-page.jpg
 heading: Tenis Stołowy Dźwiękowy
 subheading: z myślą o osobach niewidomych
 mainpitch:
   title: Fundacja
   description: >-
     Fundacja na rzecz Tenisa Stołowego Dźwiękowego została stworzona aby
-    popularyzować ten sport, wspierać organizację zawód oraz pomagać osobom z
-    niepełnosprawnościami.
+    popularyzować ten sport, wspierać organizację zawodów sportowych oraz
+    pomagać osobom z niepełnosprawnościami.
 description: >-
   Gra stworzona z myślą o osobach niewidomych. Jej twórcą jest wieloletni
   pedagog, nauczyciel wychowania fizycznego i rehabilitant Specjalnego Ośrodka
