@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import facebook from '../img/social/facebook1.svg'
+import facebookWhite from '../img/social/facebook1.svg'
+import facebookBlack from '../img/social/facebook.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -107,7 +108,7 @@ const Navbar = class extends React.Component {
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={facebook} alt="Facebook" />
+                  <img src={this.state.active ? facebookBlack : facebookWhite} alt="Facebook" />
                 </span>
               </a>
             </div>
