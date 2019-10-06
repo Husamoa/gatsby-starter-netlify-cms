@@ -16,8 +16,12 @@ const VideoPage = () => (
         <div className="column">
         <h3>Instruktaż TSD</h3>
         <iframe style={{width: '560px', height: '315px'}} src="https://www.youtube.com/embed/n1Cue3_GE1k" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen={true}></iframe>
+          <div>
+            For english version <a href="https://www.youtube.com/watch?v=77JbxecGjYA" target="_blank">click here</a>
+          </div>
         </div>
         </div>
+
         </div>
       </div>
     </section>
