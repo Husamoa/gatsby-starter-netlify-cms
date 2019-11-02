@@ -101,9 +101,13 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact/examples">
                 Dla mediów
               </Link>
-              <Link className="navbar-item" to="fundation">
+              <a
+                className="navbar-item"
+                href="/fundation/"
+                target="_blank"
+                rel="noopener noreferrer">
                 Fundacja TSD
-              </Link>
+              </a>
             </div>
             <div className="navbar-end has-text-centered">
               <a
