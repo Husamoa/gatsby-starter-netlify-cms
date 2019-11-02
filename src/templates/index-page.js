@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import MessengerChat from '../components/messenger.js'
 
 export const IndexPageTemplate = ({
   image,
@@ -68,6 +69,7 @@ export const IndexPageTemplate = ({
     </div>
     <section className="section section--gradient">
       <div className="container">
+        <MessengerChat />
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
