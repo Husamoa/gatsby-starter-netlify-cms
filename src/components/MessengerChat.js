@@ -7,7 +7,7 @@ const MessengerChat = () => (
     appId="706255716535048"
     loggedInGreeting="Witaj na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     loggedOutGreeting="Witaj na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
-    greetingDialogDisplay="show"
+    greetingDialogDisplay="fade"
 
   />
 )
