@@ -5,7 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
-import MessengerChat from '../components/Messenger.js'
+import MessengerChat from '../components/Messenger'
 
 export const IndexPageTemplate = ({
   image,
