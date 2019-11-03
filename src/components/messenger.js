@@ -4,7 +4,7 @@ import MessengerCustomerChat from 'react-messenger-customer-chat'
 const MessengerChat = () => (
   <MessengerCustomerChat
     pageId="647906501936249"
-    appId="EAALpNFhDhLYBABbFCxJRMaPZBV2ocVW1kiTQpxGOW91HPRjeZAyfKO3vi9Rk5Rgza5kZBXpCNbryQIEFx5hX5vd6tt23Mj5ToXUvSgq23BjsOSoA7cW28SKsmNJ5YkfrwNAvTGHmoCYUBVPvudawdlc7COUb6kfoGJ1UlYVKAZDZD"
+    appId="706255716535048"
     htmlRef={window.location.pathname}
     theme_color="#67b868"
     logged_in_greeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
