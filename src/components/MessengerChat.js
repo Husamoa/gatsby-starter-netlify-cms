@@ -8,6 +8,7 @@ const MessengerChat = () => (
     theme_color="#67b868"
     logged_in_greeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     logged_out_greeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
+    greeting_dialog_display="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
   />
 )
 
