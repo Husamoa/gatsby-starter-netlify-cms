@@ -39,6 +39,19 @@ export default class Index extends React.Component {
         <section className="section section-large-padding">
           <div className="container">
             <div className="content">
+              <h1>Kontakt</h1>
+              <p>
+                Prosimy o kontakt telefoniczny, mailowy, bądź przez formularz kontaktowy.
+              </p>
+              <ul>
+                <li>
+                  mail: <a href="mailto:tenisstolowydzwiekowy@gmail.com">tenisstolowydzwiekowy@gmail.com</a>
+                </li>
+                <li>
+                  tel: <a href="tel:+48668336781">668 336 781</a>
+                </li>
+              </ul>
+              <p>Mogą Państwo również skorzystać z czatu Messenger w prawym dolnym rogu ekranu.</p>
               <h1>Formularz kontaktowy</h1>
               <form
                 name="contact"
