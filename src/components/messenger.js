@@ -5,7 +5,6 @@ const MessengerChat = () => (
   <MessengerCustomerChat
     pageId="647906501936249"
     appId="706255716535048"
-    htmlRef={window.location.pathname}
     theme_color="#67b868"
     logged_in_greeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     logged_out_greeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
