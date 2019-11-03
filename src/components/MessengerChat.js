@@ -5,11 +5,10 @@ const MessengerChat = () => (
   <MessengerCustomerChat
     pageId="647906501936249"
     appId="706255716535048"
-    greetingDialogDisplay="show"
+    greetingDialogDisplay="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     themeColor="#67b868"
     loggedInGreeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     loggedOutGreeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
-    greetingDialogDisplay="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
   />
 )
 
