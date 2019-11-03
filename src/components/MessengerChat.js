@@ -7,8 +7,6 @@ const MessengerChat = () => (
     appId="706255716535048"
     greetingDialogDisplay="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
     themeColor="#67b868"
-    loggedInGreeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
-    loggedOutGreeting="Witamy na czacie Tenisa Stołowego Dźwiękowego :) W czym możemy pomóc?"
   />
 )
 
