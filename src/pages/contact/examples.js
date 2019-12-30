@@ -13,7 +13,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Kontakt</h1>
               <p>
-                Prosimy o kontakt telefoniczny, bądź przez formularz kontaktowy.
+                Prosimy o kontakt telefoniczny lub przez formularz kontaktowy.
               </p>
               <ul>
                 <li>
